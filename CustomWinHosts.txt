@@ -1,0 +1,21 @@
+# Title: Colton's Anti-Malware List («hosts» file version)
+# Version: 11November2022v4
+
+# ——— Microsoft Telemetry ———
+# Domains listed on Micrsoft's support page for Windows 11 that shouldn't also break too many features/applications by being blocked.
+
+tile-service.weather.microsoft.com
+cdn.onenote.net
+evoke-windowsservices-tas.msedge.net
+www.bing.com*
+fp.msedge.net
+I-ring.msedge.net
+s-ring.msedge.net
+dmd.metaservices.microsoft.com
+v10.events.data.microsoft.com
+watson.*.microsoft.com
+iecvlist.microsoft.com
+msedge.api.cdp.microsoft.com
+manage.devcenter.microsoft.com
+arc.msn.com
+ris.api.iris.microsoft.com
