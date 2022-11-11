@@ -7,13 +7,11 @@
 tile-service.weather.microsoft.com
 cdn.onenote.net
 evoke-windowsservices-tas.msedge.net
-www.bing.com*
 fp.msedge.net
 I-ring.msedge.net
 s-ring.msedge.net
 dmd.metaservices.microsoft.com
 v10.events.data.microsoft.com
-watson.*.microsoft.com
 iecvlist.microsoft.com
 msedge.api.cdp.microsoft.com
 manage.devcenter.microsoft.com
