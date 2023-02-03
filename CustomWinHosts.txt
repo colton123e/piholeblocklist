@@ -1,4 +1,4 @@
-# Title: Colton's Anti-Malware List («hosts» file version)
+# Title: Colton's List («hosts» file version)
 # Version: 11November2022v4
 
 # ——— Microsoft Telemetry ———
