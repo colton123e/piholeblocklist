@@ -19,6 +19,5 @@
     deb.nodesource.com
     www.ubnt.com
     *.test
-    debian.map.fastlydns.net
     api.tiles.mapbox.com
     net-fe-static-assets.network-controller.svc.ui.com
