@@ -16,7 +16,6 @@
     config.ubnt.com
     apt-beta.artifacts.ui.com
     apt.artifacts.ui.com
-    deb.nodesource.com
     www.ubnt.com
     *.test
     api.tiles.mapbox.com
