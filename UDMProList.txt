@@ -4,9 +4,6 @@
 # ——— Ubiquiti Telemetry ———
 # Domains listed on https://hardforum.com/threads/unifi-dream-machine-security-hardening-guide.2012625/ that shouldn't also break too many features/applications by being blocked.
 
-
-    static.ui.com
-    static.ubnt.com
     ping.ui.com
     ping.ubnt.com
     trace.svc.ui.com
@@ -19,4 +16,3 @@
     www.ubnt.com
     *.test
     api.tiles.mapbox.com
-    net-fe-static-assets.network-controller.svc.ui.com
